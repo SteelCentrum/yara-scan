@@ -1,0 +1,3 @@
+pyyaml
+yara-python
+yarautil @ git+https://github.com/opensec-public/yarautil@master
